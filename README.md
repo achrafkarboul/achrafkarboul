@@ -15,12 +15,12 @@ Je suis Achraf Karboul, originaire de le Tunisie. Je suis développeur iot et co
 
 <p align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" style="vertical-align:top; margin:4px">
         <img src="https://user-images.githubusercontent.com/59792971/164090922-0eaf21ff-bc5f-42d7-9ed8-278734518179.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
         <img src="https://user-images.githubusercontent.com/59792971/164090683-5b0ee251-825c-40a5-8d48-41ff40cc51db.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://miro.medium.com/v2/resize:fit:300/0*goJuBKoyL-zZX4RB.png" alt="OOP" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="espressif" height="40" style="vertical-align:top; margin:4px">
     </p>
 
 ### **GitHub Analytics**

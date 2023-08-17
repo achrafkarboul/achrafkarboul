@@ -14,27 +14,14 @@ Je suis Achraf Karboul, originaire de le Tunisie. Je suis développeur iot et co
 ### **Languages And Tools**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://iconape.com/wp-content/files/ds/99775/svg/symfony.svg" alt="Symfony" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/59792971/164089524-77725724-a717-4321-b5c4-7560c2e16cf0.png" alt="NestJs" height="40" style="vertical-align:top; margin:4px">
-<img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/59792971/164090404-6997cfa7-c8f7-4d28-8c5f-eb2138746ec2.png" alt="MongoDB" height="45" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/59792971/164090683-5b0ee251-825c-40a5-8d48-41ff40cc51db.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50px" width="50px" style="vertical-align:top; margin:4px">
- <img alt="Docker" width="50px" height="40px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"; margin:4px />
-<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"; margin:4px />
- <img alt="Linux" height="40px" src="https://user-images.githubusercontent.com/59792971/164090922-0eaf21ff-bc5f-42d7-9ed8-278734518179.png"; margin:4px />
-</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/59792971/164090922-0eaf21ff-bc5f-42d7-9ed8-278734518179.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/59792971/164090683-5b0ee251-825c-40a5-8d48-41ff40cc51db.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
+    </p>
 
 ### **GitHub Analytics**
 <p align="center">

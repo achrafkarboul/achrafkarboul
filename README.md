@@ -3,7 +3,7 @@
 ### BONJOUR 👋
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=achrafkarboul.achrafkarboul) [![Github](https://img.shields.io/github/followers/achrafkarboul?label=Follow&style=social)](https://github.com/achrafkarboul) 
 
-Je suis Achraf Karboul, originaire de le Tunisie. Je suis développeur iot et concepteur électronique , passionné par les technologies dérivées de l'ESP32. Je suis vraiment ouverte à toute opportunité qui me donnera la chance de commencer une nouvelle aventure, d'exprimer ma créativité et d'acquérir de nouvelles compétences.
+Je suis Achraf Karboul, étudiant ingénieur à l'INSAT. Je suis développeur iot et concepteur électronique , passionné par les technologies dérivées de l'ESP32. Je suis vraiment ouvert à toute opportunité qui me donnera la chance de commencer une nouvelle aventure, d'exprimer ma créativité et d'acquérir de nouvelles compétences.
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
 
